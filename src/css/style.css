@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-block {
+    padding: 20px;
+}
+.container {
+    border: 1px solid;
+}
+
+.strong-title {
+    display: block;
+    text-transform: uppercase;
+}
+.subtitle {
+    display: block;
+}
+.advantages {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+}
+.hero {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+}
