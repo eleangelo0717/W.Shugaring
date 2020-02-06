@@ -9,7 +9,7 @@
     border: 1px solid;
 }
 
-.strong-title {
+.title {
     display: block;
     text-transform: uppercase;
 }
@@ -18,11 +18,19 @@
 }
 .advantages {
     text-transform: uppercase;
+    
+}
+.hero {
+    text-transform:uppercase;
     text-align: center;
     padding: 10px;
 }
-.hero {
-    text-transform: uppercase;
-    text-align: center;
-    padding: 10px;
+.img-header {
+    width: 100%;
+}
+.img-hero {
+    width: 100%;
+}
+.price-services {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
