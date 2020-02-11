@@ -34,3 +34,10 @@
 .price-services {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
+.telefon {display: flex;
+    flex-flow: column;
+}
+
+.footer {
+    padding: 20px;
+}
