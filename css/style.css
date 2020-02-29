@@ -2,24 +2,35 @@
     margin: 0;
     box-sizing: border-box;
 }
-.navbar-block {
-    padding: 20px;
-}
+
+
 .container {
-    border: 1px solid;
+    border: 1px solid rgb(233, 225, 240);
+}
+.navbar-menu {
+    text-transform: uppercase;
+    color: black;
+  font-weight: 700;
+
 }
 
+
+.header {
+    padding-top: 20px;
+    
+}
 .title {
     display: block;
     text-transform: uppercase;
 }
 .subtitle {
-    display: block;
-}
-.advantages {
-    text-transform: uppercase;
     
+    text-transform: uppercase;
+    text-align: center;
 }
+
+    
+
 .hero {
     text-transform:uppercase;
     text-align: center;
@@ -34,8 +45,8 @@
 .price-services {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
-.telefon {display: flex;
-    flex-flow: column;
+.gallery{
+    text-align: center;  
 }
 
 .footer {
