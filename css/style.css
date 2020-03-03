@@ -6,9 +6,11 @@
 
 .container {
     order: 1px solid rgb(233, 225, 240);
+    color:#900020
 }
 .navbar {
-    background-color: rgb(252,210,188);
+    background-color: rgb(251,240,208);
+    color:#900020;
     border: 1px solid rgb(207, 204, 209);
 }
 .navbar-menu {
@@ -26,7 +28,7 @@ padding: 0.5rem 0.5rem ;
     padding: 0.5rem 0.5rem ;
 }
 .header {
-    background-color: rgb(252,210,188);
+    background-color: rgb(251,240,208);
 }
 
 .heding {
@@ -38,20 +40,34 @@ padding: 0.5rem 0.5rem ;
     display: block;
     text-transform: uppercase;
 }
-.text {
+.actions {
+    background-color: rgb(251,240,208);
+}
+.actions-subtitle {
+    
+    text-align: center;
+    font-family: sans-serif;
+}
+.actions-number {
+    font-size: 40px;
+    text-align: center;
+}
+.actions-text {
     font-size: 20px;
     text-align: center;
+    font-weight: 400;
 }
-.subtitle {
-    
-    text-transform: uppercase;
+
+
+.subtitle-advantages {
+    font-family: sans-serif;
     text-align: center;
 }
 
-    
+
 
 .hero {
-    text-transform:uppercase;
+    
     text-align: center;
     padding: 10px;
 }
@@ -61,13 +77,19 @@ padding: 0.5rem 0.5rem ;
 .img-hero {
     width: 100%;
 }
+.services {
+    background-color: rgb(251,240,208);
+}
 .price-services {
+    background-color: rgb(255, 253, 254);
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 .gallery{
     text-align: center;  
+    
 }
 
-.footer {
+.contacts {
+    background-color: rgb(198,126,151);
     padding: 20px;
 }
