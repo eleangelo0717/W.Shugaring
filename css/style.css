@@ -3,13 +3,15 @@
     box-sizing: border-box;
 }
 
-
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .container {
     order: 1px solid rgb(233, 225, 240);
     color:#900020
 }
 .navbar {
-    background-color: rgb(251,240,208);
+    background-color: rgb(255,211,181);
     color:#900020;
     border: 1px solid rgb(207, 204, 209);
 }
