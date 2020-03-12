@@ -21,7 +21,7 @@ body {
     font-weight: 500;
    
 }
-.phone {
+.phone,.Email {
 color: #000000;
 font-weight: 500;
 padding: 0.5rem 0.5rem ;
@@ -88,10 +88,10 @@ padding: 0.5rem 0.5rem ;
 }
 .gallery{
     text-align: center;  
-    
+    padding: 20px;
 }
 
 .contacts {
-    background-color: rgb(198,126,151);
+    background-color: rgb(255,211,181);
     padding: 20px;
 }
